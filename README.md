@@ -8,8 +8,13 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 📫 How to reach me: strongxu0001@163.com
-# 
-![](https://github-readme-stats.vercel.app/api?username=xushux&show_icons=true&theme=transparent)
+
+- ## **GitHub Stats**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xushux&theme=radical&show_icons=true) 
+![xushux](https://github-readme-stats.vercel.app/api/top-langs/?username=xushux&hide=html&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xushux&theme=monokai)
+
 #
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=xushux&theme=dracula)
 # 访客
