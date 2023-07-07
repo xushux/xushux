@@ -2,6 +2,14 @@
    
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;祝您今天愉快!&center=true&size=27">
+	</a>
+</h1>
+
+
 >
 > # Strong xu
 ### Hi there 👋,I'm Strong xu.
@@ -19,6 +27,7 @@
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=xushux&theme=dracula)
 # 访客
 ![Visitor Count](https://profile-counter.glitch.me/xushux/count.svg)
+
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
